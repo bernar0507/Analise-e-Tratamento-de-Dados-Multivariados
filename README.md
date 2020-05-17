@@ -1,5 +1,5 @@
 # What is this? 
-This is a repository with  project developed in the curricular unit "Analise e Tratamento de Dados Multivariados" 
+This is a repository with  project developed in the curricular unit Multivariate Analysis and Data Processing 
 of my bioinformatics degree.
 This project had the goal of let us know the basics of the programming language "R" by using it to study the
 Multiple Linear Regression Model.
